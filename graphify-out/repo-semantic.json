@@ -1,0 +1,72 @@
+{
+  "repo": "portfolio",
+  "title": "portfolio",
+  "purpose": "Personal portfolio site for Bhavya Dalwadi that presents background, skills, and linked project cards for past coursework and web-development work.",
+  "domains": [
+    "web app"
+  ],
+  "tech_stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "jQuery",
+    "Bootstrap"
+  ],
+  "features": [
+    "Single-page portfolio with hero section, about section, project gallery, and contact section",
+    "Project cards that summarize and link out to multiple GitHub repositories",
+    "Skill progress bars covering front-end, JavaScript, design, and database tools",
+    "Resume download call-to-action and hiring-oriented contact prompts",
+    "Bootstrap and jQuery-based interactions with a custom visual theme"
+  ],
+  "pending_state": "unknown",
+  "pending_items": [],
+  "status_confidence": "medium",
+  "main_modules": [
+    "_images",
+    "_scripts",
+    "_styles"
+  ],
+  "key_flows": [
+    "graphify-out/GRAPH_REPORT.md",
+    "index.html"
+  ],
+  "known_outputs": [
+    "graphify-out/graph.json",
+    "graphify-out/graph.html",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "current_work_guess": "No explicit active roadmap is documented; the repo reads like an older personal portfolio site intended to showcase projects for job search use.",
+  "likely_entrypoints": [
+    "Index.html",
+    "_scripts/script.js",
+    "_styles/styles.css"
+  ],
+  "notable_docs": [
+    "README.md",
+    "Index.html",
+    "_scripts/script.js"
+  ],
+  "graph_stats": "90 nodes \u00b7 171 edges \u00b7 11 communities",
+  "god_nodes": [
+    "TetherClass",
+    "ya()",
+    "ga()",
+    "na()",
+    "xa()"
+  ],
+  "llm_start_here": [
+    "README.md",
+    "Index.html",
+    "_scripts/script.js",
+    "graphify-out/GRAPH_REPORT.md"
+  ],
+  "suggested_next_steps": [
+    "Refresh the portfolio copy and screenshots so it reflects your current GitHub and resume goals",
+    "Document how project descriptions in the portfolio map to the linked repositories"
+  ],
+  "evidence_files": [
+    "Index.html",
+    "_scripts/script.js"
+  ]
+}

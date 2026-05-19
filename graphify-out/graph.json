@@ -1,0 +1,2615 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "label": "jquery-3.2.1.min.js",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L1",
+      "id": "jquery_3_2_1_min_js",
+      "community": 1,
+      "norm_label": "jquery-3.2.1.min.js"
+    },
+    {
+      "label": "p()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_p",
+      "community": 3,
+      "norm_label": "p()"
+    },
+    {
+      "label": "w()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_w",
+      "community": 1,
+      "norm_label": "w()"
+    },
+    {
+      "label": "ga()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ga",
+      "community": 0,
+      "norm_label": "ga()"
+    },
+    {
+      "label": "ha()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ha",
+      "community": 7,
+      "norm_label": "ha()"
+    },
+    {
+      "label": "ia()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ia",
+      "community": 7,
+      "norm_label": "ia()"
+    },
+    {
+      "label": "ja()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ja",
+      "community": 3,
+      "norm_label": "ja()"
+    },
+    {
+      "label": "ka()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ka",
+      "community": 3,
+      "norm_label": "ka()"
+    },
+    {
+      "label": "la()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_la",
+      "community": 1,
+      "norm_label": "la()"
+    },
+    {
+      "label": "ma()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ma",
+      "community": 1,
+      "norm_label": "ma()"
+    },
+    {
+      "label": "na()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_na",
+      "community": 3,
+      "norm_label": "na()"
+    },
+    {
+      "label": "oa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_oa",
+      "community": 3,
+      "norm_label": "oa()"
+    },
+    {
+      "label": "pa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_pa",
+      "community": 7,
+      "norm_label": "pa()"
+    },
+    {
+      "label": "qa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_qa",
+      "community": 3,
+      "norm_label": "qa()"
+    },
+    {
+      "label": "ra()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ra",
+      "community": 1,
+      "norm_label": "ra()"
+    },
+    {
+      "label": "sa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_sa",
+      "community": 0,
+      "norm_label": "sa()"
+    },
+    {
+      "label": "ta()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ta",
+      "community": 0,
+      "norm_label": "ta()"
+    },
+    {
+      "label": "ua()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ua",
+      "community": 0,
+      "norm_label": "ua()"
+    },
+    {
+      "label": "va()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_va",
+      "community": 5,
+      "norm_label": "va()"
+    },
+    {
+      "label": "wa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_wa",
+      "community": 5,
+      "norm_label": "wa()"
+    },
+    {
+      "label": "xa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_xa",
+      "community": 5,
+      "norm_label": "xa()"
+    },
+    {
+      "label": "ya()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_ya",
+      "community": 0,
+      "norm_label": "ya()"
+    },
+    {
+      "label": "za()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_za",
+      "community": 5,
+      "norm_label": "za()"
+    },
+    {
+      "label": "B()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_b",
+      "community": 3,
+      "norm_label": "b()"
+    },
+    {
+      "label": "E()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_e",
+      "community": 5,
+      "norm_label": "e()"
+    },
+    {
+      "label": "K()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_k",
+      "community": 8,
+      "norm_label": "k()"
+    },
+    {
+      "label": "M()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_m",
+      "community": 5,
+      "norm_label": "m()"
+    },
+    {
+      "label": "N()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_n",
+      "community": 1,
+      "norm_label": "n()"
+    },
+    {
+      "label": "O()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_o",
+      "community": 1,
+      "norm_label": "o()"
+    },
+    {
+      "label": "g()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_g",
+      "community": 8,
+      "norm_label": "g()"
+    },
+    {
+      "label": "S()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "id": "scripts_jquery_3_2_1_min_s",
+      "community": 1,
+      "norm_label": "s()"
+    },
+    {
+      "label": "V()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_v",
+      "community": 1,
+      "norm_label": "v()"
+    },
+    {
+      "label": "$()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min",
+      "community": 1,
+      "norm_label": "$()"
+    },
+    {
+      "label": "fa()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_fa",
+      "community": 0,
+      "norm_label": "fa()"
+    },
+    {
+      "label": "Ea()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_ea",
+      "community": 3,
+      "norm_label": "ea()"
+    },
+    {
+      "label": "$a()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_a",
+      "community": 3,
+      "norm_label": "$a()"
+    },
+    {
+      "label": "eb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_eb",
+      "community": 1,
+      "norm_label": "eb()"
+    },
+    {
+      "label": "fb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_fb",
+      "community": 9,
+      "norm_label": "fb()"
+    },
+    {
+      "label": "gb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_gb",
+      "community": 1,
+      "norm_label": "gb()"
+    },
+    {
+      "label": "hb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_hb",
+      "community": 7,
+      "norm_label": "hb()"
+    },
+    {
+      "label": "ib()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_ib",
+      "community": 7,
+      "norm_label": "ib()"
+    },
+    {
+      "label": "jb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_jb",
+      "community": 9,
+      "norm_label": "jb()"
+    },
+    {
+      "label": "kb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "id": "scripts_jquery_3_2_1_min_kb",
+      "community": 9,
+      "norm_label": "kb()"
+    },
+    {
+      "label": "pb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "id": "scripts_jquery_3_2_1_min_pb",
+      "community": 3,
+      "norm_label": "pb()"
+    },
+    {
+      "label": "qb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "id": "scripts_jquery_3_2_1_min_qb",
+      "community": 8,
+      "norm_label": "qb()"
+    },
+    {
+      "label": "Ab()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "id": "scripts_jquery_3_2_1_min_ab",
+      "community": 1,
+      "norm_label": "ab()"
+    },
+    {
+      "label": "Mb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "id": "scripts_jquery_3_2_1_min_mb",
+      "community": 1,
+      "norm_label": "mb()"
+    },
+    {
+      "label": "Nb()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "id": "scripts_jquery_3_2_1_min_nb",
+      "community": 8,
+      "norm_label": "nb()"
+    },
+    {
+      "label": "Ob()",
+      "file_type": "code",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "id": "scripts_jquery_3_2_1_min_ob",
+      "community": 1,
+      "norm_label": "ob()"
+    },
+    {
+      "label": "tether.js",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L1",
+      "id": "tether_js",
+      "community": 4,
+      "norm_label": "tether.js"
+    },
+    {
+      "label": "within()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L21",
+      "id": "scripts_tether_within",
+      "community": 2,
+      "norm_label": "within()"
+    },
+    {
+      "label": "transformKey",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L25",
+      "id": "scripts_tether_transformkey",
+      "community": 4,
+      "norm_label": "transformkey"
+    },
+    {
+      "label": "tethers",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L40",
+      "id": "scripts_tether_tethers",
+      "community": 4,
+      "norm_label": "tethers"
+    },
+    {
+      "label": "position()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L42",
+      "id": "scripts_tether_position",
+      "community": 4,
+      "norm_label": "position()"
+    },
+    {
+      "label": "now()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L49",
+      "id": "scripts_tether_now",
+      "community": 4,
+      "norm_label": "now()"
+    },
+    {
+      "label": "tick()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L61",
+      "id": "scripts_tether_tick",
+      "community": 4,
+      "norm_label": "tick()"
+    },
+    {
+      "label": "MIRROR_LR",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L93",
+      "id": "scripts_tether_mirror_lr",
+      "community": 4,
+      "norm_label": "mirror_lr"
+    },
+    {
+      "label": "MIRROR_TB",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L99",
+      "id": "scripts_tether_mirror_tb",
+      "community": 4,
+      "norm_label": "mirror_tb"
+    },
+    {
+      "label": "OFFSET_MAP",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L105",
+      "id": "scripts_tether_offset_map",
+      "community": 4,
+      "norm_label": "offset_map"
+    },
+    {
+      "label": "autoToFixedAttachment()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L114",
+      "id": "scripts_tether_autotofixedattachment",
+      "community": 6,
+      "norm_label": "autotofixedattachment()"
+    },
+    {
+      "label": "attachmentToOffset()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L128",
+      "id": "scripts_tether_attachmenttooffset",
+      "community": 6,
+      "norm_label": "attachmenttooffset()"
+    },
+    {
+      "label": "addOffset()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L143",
+      "id": "scripts_tether_addoffset",
+      "community": 6,
+      "norm_label": "addoffset()"
+    },
+    {
+      "label": "offsetToPx()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L161",
+      "id": "scripts_tether_offsettopx",
+      "community": 6,
+      "norm_label": "offsettopx()"
+    },
+    {
+      "label": "parseOffset()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L172",
+      "id": "scripts_tether_parseoffset",
+      "community": 2,
+      "norm_label": "parseoffset()"
+    },
+    {
+      "label": "TetherClass",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L178",
+      "id": "scripts_tether_tetherclass",
+      "community": 2,
+      "norm_label": "tetherclass"
+    },
+    {
+      "label": ".constructor()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L180",
+      "id": "scripts_tether_tetherclass_constructor",
+      "community": 2,
+      "norm_label": ".constructor()"
+    },
+    {
+      "label": ".getClass()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L199",
+      "id": "scripts_tether_tetherclass_getclass",
+      "community": 2,
+      "norm_label": ".getclass()"
+    },
+    {
+      "label": ".setOptions()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L210",
+      "id": "scripts_tether_tetherclass_setoptions",
+      "community": 2,
+      "norm_label": ".setoptions()"
+    },
+    {
+      "label": ".getTargetBounds()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L274",
+      "id": "scripts_tether_tetherclass_gettargetbounds",
+      "community": 2,
+      "norm_label": ".gettargetbounds()"
+    },
+    {
+      "label": ".clearCache()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L368",
+      "id": "scripts_tether_tetherclass_clearcache",
+      "community": 6,
+      "norm_label": ".clearcache()"
+    },
+    {
+      "label": ".cache()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L372",
+      "id": "scripts_tether_tetherclass_cache",
+      "community": 2,
+      "norm_label": ".cache()"
+    },
+    {
+      "label": ".enable()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L386",
+      "id": "scripts_tether_tetherclass_enable",
+      "community": 2,
+      "norm_label": ".enable()"
+    },
+    {
+      "label": ".disable()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L404",
+      "id": "scripts_tether_tetherclass_disable",
+      "community": 2,
+      "norm_label": ".disable()"
+    },
+    {
+      "label": ".destroy()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L416",
+      "id": "scripts_tether_tetherclass_destroy",
+      "community": 2,
+      "norm_label": ".destroy()"
+    },
+    {
+      "label": ".updateAttachClasses()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L431",
+      "id": "scripts_tether_tetherclass_updateattachclasses",
+      "community": 2,
+      "norm_label": ".updateattachclasses()"
+    },
+    {
+      "label": ".position()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L481",
+      "id": "scripts_tether_tetherclass_position",
+      "community": 6,
+      "norm_label": ".position()"
+    },
+    {
+      "label": ".move()",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L648",
+      "id": "scripts_tether_tetherclass_move",
+      "community": 2,
+      "norm_label": ".move()"
+    },
+    {
+      "label": "Tether",
+      "file_type": "code",
+      "source_file": "tether.js",
+      "source_location": "L794",
+      "id": "scripts_tether_tether",
+      "community": 4,
+      "norm_label": "tether"
+    },
+    {
+      "label": "bootstrap.min.js",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L1",
+      "id": "bootstrap_min_js",
+      "community": 0,
+      "norm_label": "bootstrap.min.js"
+    },
+    {
+      "label": "t()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_t",
+      "community": 0,
+      "norm_label": "t()"
+    },
+    {
+      "label": "e()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_e",
+      "community": 0,
+      "norm_label": "e()"
+    },
+    {
+      "label": "n()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_n",
+      "community": 0,
+      "norm_label": "n()"
+    },
+    {
+      "label": "i()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_i",
+      "community": 0,
+      "norm_label": "i()"
+    },
+    {
+      "label": "o()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_o",
+      "community": 0,
+      "norm_label": "o()"
+    },
+    {
+      "label": "r()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_r",
+      "community": 0,
+      "norm_label": "r()"
+    },
+    {
+      "label": "s()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_s",
+      "community": 0,
+      "norm_label": "s()"
+    },
+    {
+      "label": "h()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_h",
+      "community": 0,
+      "norm_label": "h()"
+    },
+    {
+      "label": "l()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "id": "scripts_bootstrap_min_l",
+      "community": 0,
+      "norm_label": "l()"
+    },
+    {
+      "label": "u()",
+      "file_type": "code",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L7",
+      "id": "scripts_bootstrap_min_u",
+      "community": 0,
+      "norm_label": "u()"
+    },
+    {
+      "label": "scripts.js",
+      "file_type": "code",
+      "source_file": "scripts.js",
+      "source_location": "L1",
+      "id": "scripts_js",
+      "community": 10,
+      "norm_label": "scripts.js"
+    }
+  ],
+  "links": [
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_p",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_w",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ga",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ja",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ka",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_la",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ma",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_na",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_oa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_pa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_qa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ra",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_sa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ua",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_va",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_wa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_xa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ya",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_za",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_m",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_s",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_v",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_fa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ea",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_a",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_eb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_fb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_gb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_hb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ib",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_jb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_kb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_pb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_qb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ab",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_mb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_nb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "jquery_3_2_1_min_js",
+      "target": "scripts_jquery_3_2_1_min_ob",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ja",
+      "target": "scripts_jquery_3_2_1_min_p",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ga",
+      "target": "scripts_jquery_3_2_1_min_m",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ga",
+      "target": "scripts_jquery_3_2_1_min_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ga",
+      "target": "scripts_jquery_3_2_1_min_sa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ga",
+      "target": "scripts_jquery_3_2_1_min_qa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_va",
+      "target": "scripts_jquery_3_2_1_min_ga",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ga",
+      "target": "scripts_bootstrap_min_t"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ga",
+      "target": "scripts_bootstrap_min_i"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ia",
+      "target": "scripts_jquery_3_2_1_min_ha",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_pa",
+      "target": "scripts_jquery_3_2_1_min_ia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_xa",
+      "target": "scripts_jquery_3_2_1_min_ia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_za",
+      "target": "scripts_jquery_3_2_1_min_ia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ib",
+      "target": "scripts_jquery_3_2_1_min_ia",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ja",
+      "target": "scripts_jquery_3_2_1_min_qa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ja",
+      "target": "scripts_jquery_3_2_1_min_na",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ka",
+      "target": "scripts_jquery_3_2_1_min_na",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ka",
+      "target": "scripts_jquery_3_2_1_min_oa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_na",
+      "target": "scripts_jquery_3_2_1_min_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_qa",
+      "target": "scripts_jquery_3_2_1_min_na",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_oa",
+      "target": "scripts_jquery_3_2_1_min_na",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_a",
+      "target": "scripts_jquery_3_2_1_min_na",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_oa",
+      "target": "scripts_jquery_3_2_1_min_ea",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_qa",
+      "target": "scripts_jquery_3_2_1_min_oa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_a",
+      "target": "scripts_jquery_3_2_1_min_oa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_jquery_3_2_1_min_sa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_jquery_3_2_1_min_ta",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_jquery_3_2_1_min_ua",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_xa",
+      "target": "scripts_jquery_3_2_1_min_va",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_xa",
+      "target": "scripts_jquery_3_2_1_min_wa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_za",
+      "target": "scripts_jquery_3_2_1_min_wa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_xa",
+      "target": "scripts_jquery_3_2_1_min_e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_jquery_3_2_1_min_xa",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_xa",
+      "target": "scripts_bootstrap_min_i"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_jquery_3_2_1_min_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_bootstrap_min_i"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_bootstrap_min_l"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ya",
+      "target": "scripts_bootstrap_min_r"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_za",
+      "target": "scripts_jquery_3_2_1_min_m",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_a",
+      "target": "scripts_jquery_3_2_1_min_za",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ea",
+      "target": "scripts_jquery_3_2_1_min_b",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L2",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_g",
+      "target": "scripts_jquery_3_2_1_min_k",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_nb",
+      "target": "scripts_jquery_3_2_1_min_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_qb",
+      "target": "scripts_jquery_3_2_1_min_g",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_fa",
+      "target": "scripts_bootstrap_min_h"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ea",
+      "target": "scripts_bootstrap_min_r"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_a",
+      "target": "scripts_jquery_3_2_1_min_pb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L4",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_a",
+      "target": "scripts_jquery_3_2_1_min_qb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_kb",
+      "target": "scripts_jquery_3_2_1_min_fb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ib",
+      "target": "scripts_jquery_3_2_1_min_hb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_ib",
+      "target": "scripts_bootstrap_min_h"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "jquery-3.2.1.min.js",
+      "source_location": "L3",
+      "weight": 1.0,
+      "source": "scripts_jquery_3_2_1_min_kb",
+      "target": "scripts_jquery_3_2_1_min_jb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_within",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_transformkey",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L40",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_tethers",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L42",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_position",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L49",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_now",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L61",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_tick",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L93",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_mirror_lr",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L99",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_mirror_tb",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L105",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_offset_map",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L114",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_autotofixedattachment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L128",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_attachmenttooffset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L143",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_addoffset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L161",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_offsettopx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L172",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_parseoffset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L178",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_tetherclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L794",
+      "weight": 1.0,
+      "source": "tether_js",
+      "target": "scripts_tether_tether",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L664",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_move",
+      "target": "scripts_tether_within",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L71",
+      "weight": 1.0,
+      "source": "scripts_tether_tick",
+      "target": "scripts_tether_now",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L82",
+      "weight": 1.0,
+      "source": "scripts_tether_tick",
+      "target": "scripts_tether_tetherclass_position",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L492",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_autotofixedattachment",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L516",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_attachmenttooffset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L523",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_addoffset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L516",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_offsettopx",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L256",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_setoptions",
+      "target": "scripts_tether_parseoffset",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L180",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_constructor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L199",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_getclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L210",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_setoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L274",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_gettargetbounds",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L368",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_clearcache",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L372",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_cache",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L386",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_enable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L404",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_disable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L416",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_destroy",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L431",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_updateattachclasses",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L481",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_position",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L648",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass",
+      "target": "scripts_tether_tetherclass_move",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L188",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_constructor",
+      "target": "scripts_tether_tetherclass_setoptions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L196",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_constructor",
+      "target": "scripts_tether_tetherclass_position",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L245",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_setoptions",
+      "target": "scripts_tether_tetherclass_getclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L388",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_enable",
+      "target": "scripts_tether_tetherclass_getclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L405",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_disable",
+      "target": "scripts_tether_tetherclass_getclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L449",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_updateattachclasses",
+      "target": "scripts_tether_tetherclass_getclass",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L260",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_setoptions",
+      "target": "scripts_tether_tetherclass_disable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L270",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_setoptions",
+      "target": "scripts_tether_tetherclass_enable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L489",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_tetherclass_clearcache",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L496",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_tetherclass_cache",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L734",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_move",
+      "target": "scripts_tether_tetherclass_cache",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L400",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_enable",
+      "target": "scripts_tether_tetherclass_position",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L417",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_destroy",
+      "target": "scripts_tether_tetherclass_disable",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L494",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_tetherclass_updateattachclasses",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tether.js",
+      "source_location": "L632",
+      "weight": 1.0,
+      "source": "scripts_tether_tetherclass_position",
+      "target": "scripts_tether_tetherclass_move",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_e",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_i",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_o",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_r",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_s",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_h",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_l",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "bootstrap_min_js",
+      "target": "scripts_bootstrap_min_u",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_i",
+      "target": "scripts_bootstrap_min_t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_r",
+      "target": "scripts_bootstrap_min_t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_h",
+      "target": "scripts_bootstrap_min_t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_l",
+      "target": "scripts_bootstrap_min_t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_u",
+      "target": "scripts_bootstrap_min_t",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_e",
+      "target": "scripts_bootstrap_min_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_h",
+      "target": "scripts_bootstrap_min_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_l",
+      "target": "scripts_bootstrap_min_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_u",
+      "target": "scripts_bootstrap_min_n",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_s",
+      "target": "scripts_bootstrap_min_i",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "bootstrap.min.js",
+      "source_location": "L6",
+      "weight": 1.0,
+      "source": "scripts_bootstrap_min_s",
+      "target": "scripts_bootstrap_min_o",
+      "confidence_score": 1.0
+    }
+  ],
+  "hyperedges": []
+}
